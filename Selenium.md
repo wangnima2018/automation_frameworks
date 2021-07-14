@@ -12,6 +12,7 @@
   F: xpath
       todo: understand the relative/abs xpath
 
+   Preference: A, B, D, F, C, E
 2 https://yizeng.me/2014/03/23/evaluate-and-validate-xpath-css-selectors-in-chrome-developer-tools/
 Press F12 to open up Chrome DevTools.
 Elements panel should be opened by default.
