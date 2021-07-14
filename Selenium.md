@@ -4,7 +4,7 @@
 
   type of locators: 
   A: id (first choice if possbile)
-  B: name (name is not unique, so the first matching will be returned)
+  B: name (name is not unique, so the first matching will be returned) (second choice if possible)
   C: link text (this applied to hyperlink text)
   D: css selector (good for locate the complex element in the page.) 
      It starts with "#"
