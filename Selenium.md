@@ -10,6 +10,7 @@
      It starts with "#"
   E: partial link text: find links by a portion of the text in a link text element
   F: xpath
+      todo: understand the relative/abs xpath
 
 2 https://yizeng.me/2014/03/23/evaluate-and-validate-xpath-css-selectors-in-chrome-developer-tools/
 Press F12 to open up Chrome DevTools.
